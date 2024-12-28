@@ -1,9 +1,9 @@
-"# PersonalProjects" 
+"# School Assignments" 
 
-Grace Hanson 2024
+Grace Hanson 2023-Present
 
-A repo of folders containing some personal projects developed while studying Computer Science at West Virginia University. Graduating May 2027
-These were built outside of class projects, class-related work is not in this repo.
+A repo of folders containing school projects& assignments developed while studying Computer Science at West Virginia University. Graduating May 2027
+UPDATED DECEMBER 28 2024: Changed repository from personal projects to school projects. Personal portfolio is all other repositories on my profile.
 
 Learning Java at WVU. Studying Javascript and cloud infrastructure on own time.
 
