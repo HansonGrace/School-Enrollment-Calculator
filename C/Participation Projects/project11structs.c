@@ -16,16 +16,6 @@ Prints out the recipe's name and lists each of its ingredients including the qua
 */
 
 /**
- * @brief creates array of ints and gives it random values
- *
- * allocates memory for an array of ints, checks if valid, and gives
- * them random values
- *
- * @param size of elements
- * @return pointer to array
- *
-*/
-/**
  * @brief A program that creats a recipe with the name, quantity, and measurement types
  * stores different data types and instances
  *
