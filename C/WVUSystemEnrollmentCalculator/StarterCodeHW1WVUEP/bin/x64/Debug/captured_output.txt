@@ -1,0 +1,43 @@
+prompt_target_enrollment is not implemented
+calculate_growth_rate is not implemented
+print_growth_rate is not implemented
+print_enrollment_estimates is not implemented
+get_programmer_name is not implemented
+Code written by (null)
+
+==========
+Running tests...
+
+Step 2a: Running file Doxygen test...
+File /mnt/c/Users/bpowell/Desktop/StarterCodeHW1WVUEP_VS/StarterCodeHW1WVUEP/hw1_wvuep.c not found.
+File /mnt/c/Users/bpowell/Desktop/StarterCodeHW1WVUEP_VS/StarterCodeHW1WVUEP/hw1_wvuep.c not found.
+
+Step 2b: Running #include test...
+This test does not check that you have included all required files. Be sure to review compiler output for potential missing #include files.
+File /mnt/c/Users/bpowell/Desktop/StarterCodeHW1WVUEP_VS/StarterCodeHW1WVUEP/hw1_wvuep.c not found.
+File /mnt/c/Users/bpowell/Desktop/StarterCodeHW1WVUEP_VS/StarterCodeHW1WVUEP/hw1_wvuep.c not found.
+
+Step 2c: Running get_programmer_name tests...
+
+Step 2d: Running prompt_target_enrollment tests...
+
+Step 2e: Running calculate_growth_rate tests...
+
+Step 2f: Running get_growth_rate_description tests...
+get_growth_rate_description is not implemented
+
+Step 2g: Running print_growth_rate tests...
+print_growth_rate is not implemented
+
+Step 2h: Running calculate_enrollment_estimate tests...
+calculate_enrollment_estimate is not implemented
+
+Step 2i: Running print_enrollment_estimates tests...
+print_enrollment_estimates is not implemented
+print_enrollment_estimates is not implemented
+
+
+Your instructor may evaluate your program with different unit tests than were provided to you.
+
+==========
+
