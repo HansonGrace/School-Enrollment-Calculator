@@ -77,14 +77,14 @@
   <PropertyGroup Label="UserMacros" />
   <ItemGroup>
     <ClCompile Include="ctest.c" />
-    <ClCompile Include="main_hw1_wvuep.c" />
-    <ClCompile Include="test_hw1_wvuep.c" />
+    <ClCompile Include="main_enrollment.c" />
+    <ClCompile Include="test_enrollment.c" />
     <ClCompile Include="unity.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ctest.h" />
-    <ClInclude Include="hw1_wvuep.h" />
-    <ClInclude Include="test_hw1_wvuep.h" />
+    <ClInclude Include="enrollment.h" />
+    <ClInclude Include="test_enrollment.h" />
     <ClInclude Include="unity.h" />
     <ClInclude Include="unity_internals.h" />
   </ItemGroup>

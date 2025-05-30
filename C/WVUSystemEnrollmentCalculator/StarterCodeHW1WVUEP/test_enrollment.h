@@ -1,12 +1,8 @@
 /**
- * @file test_hw1_wvuep.h
- * @brief Tests header file for CS 350 Homework #1: WVU Enrollment Problem
- * @author Brian Powell
- * @version 3.4
+ * @file test_enrollment.h
+ * @brief Tests header file 
+ * @author Grace Hanson
  *
- * Place this file in the same directory as your own source code and add it to your project.
- *
- * DO NOT MODIFY THE CONTENTS OF THIS FILE.
  */
 
 #pragma once

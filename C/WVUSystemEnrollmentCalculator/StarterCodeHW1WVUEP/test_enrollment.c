@@ -1,12 +1,9 @@
 /**
  * @file test_hw1_wvuep.c
- * @brief Tests source code file for CS 350 Homework #1: WVU Enrollment Problem
- * @author Brian Powell
+ * @brief Tests source code file
+ * @author Grace Hanson
  * @version 3.5
  *
- * Place this file in the same directory as your own source code and add it to your project.
- *
- * DO NOT MODIFY THE CONTENTS OF THIS FILE.
  */
 
  // Use GNU source for kill and usleep functions
@@ -17,8 +14,8 @@
 
 #include "ctest.h"
 #include "unity.h"
-#include "hw1_wvuep.h"
-#include "test_hw1_wvuep.h"
+#include "enrollment.h"
+#include "test_enrollment.h"
 #include <fcntl.h>
 #include <unistd.h>
 #include <string.h>

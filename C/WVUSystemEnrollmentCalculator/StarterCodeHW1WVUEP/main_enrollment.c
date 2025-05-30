@@ -1,16 +1,13 @@
 /**
  * @file main_hw1_wvuep.c
- * @brief File with main function for CS 350 Homework #1: WVU Enrollment Problem
- * @author Brian Powell
+ * @brief File with main function 
+ * @author Grace Hanson
  * @version 3.3
  * 
- * Place this file in the same directory as your own source code and add it to your project.
- * 
- * DO NOT MODIFY THE CONTENTS OF THIS FILE.
  */
 
 // Include header files
-#include "hw1_wvuep.h"
+#include "enrollmenth"
 #include "test_hw1_wvuep.h"
 #include <stdio.h>
 
