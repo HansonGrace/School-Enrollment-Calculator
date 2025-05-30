@@ -1,10 +1,10 @@
-"# School Assignments" 
+#  School Enrollment Growth Estimator
 
-Grace Hanson 2023-Present
+This project estimates future school enrollment trends using basic statistical modeling. It prompts users for target enrollment values, calculates annual growth rates, and prints projections across decades. Originally designed as a C programming assignment for CS 350 at West Virginia University, it demonstrates foundational skills in C, including user input validation, math operations, file structure, and unit testing.
 
-A repo of folders containing school projects& assignments developed while studying Computer Science at West Virginia University. Graduating May 2027
-UPDATED DECEMBER 28 2024: Changed repository from personal projects to school projects. Personal portfolio is all other repositories on my profile.
+## Technologies
 
-Learning Java at WVU. Studying Javascript and cloud infrastructure on own time.
-
-Classes taken: Intro to CS, Data structures and algorithms, data files and structures. Scheduled to take System Concepts and Intro to Software Engineering in January 2025.
+- **Language:** C (C99 standard)
+- **Platform:** Cross-platform (tested on Linux and Windows with Visual Studio)
+- **Build Tools:** Visual Studio or any C compiler (e.g., GCC)
+- **Testing:** Custom test framework provided via `unity.h` and `ctest.h`
